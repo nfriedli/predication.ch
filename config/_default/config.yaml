@@ -1,0 +1,42 @@
+baseURL: https://predication.ch/
+title: Prédication protestantes
+
+defaultContentLanguage: fr
+languageCode: fr-ch
+
+# canonifyURLs: true
+copyright: Creative Commons BY-SA
+disableFastRender: true
+cleanDestinationDir: true
+removePathAccents: true
+enableGitInfo: true
+
+author:
+  name: Nicolas Friedli
+  email: nicolas.friedli+theologique@gmail.com
+
+disableKinds:
+  - 404
+  - robotsTXT
+  - taxonomy
+  - term
+
+frontmatter:
+  date:
+    - date
+    - lastmod
+  lastmod:
+    - lastmod
+    - :git
+
+markup:
+  goldmark:
+    parser:
+      autoHeadingIDType: github-ascii
+
+params:
+  description: La prédication protestante réformée en Suisse romande.
+  images:
+    - https://cdn.pixabay.com/photo/2020/04/11/18/47/a-loudspeaker-5031574_960_720.jpg
+  footer: |
+    Licence: Creative Commons BY-SA

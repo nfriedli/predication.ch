@@ -1,0 +1,25 @@
+{{ $current := .Page }}
+
+{{ define "children" }}
+{{ $current := .current}}
+<ul>
+    {{ range .context.Pages }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle}}</a>
+        {{ if .IsAncestor $current }}
+        {{ template "children" (dict "context" . "current" $current) }}
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+
+<ul>
+    {{ range sort site.Sections "Permalink" }}
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle}}</a>
+        {{ if .IsAncestor $current }}
+        {{ template "children" (dict "context" . "current" $current) }}
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>

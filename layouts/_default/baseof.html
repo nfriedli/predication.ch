@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{site.Language}}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{.Title}} - {{site.Title}}</title>
+    {{ with .Description }}<meta name="description" content="{{.}}">{{ end }}
+    <link rel="canonical" href="{{.Permalink}}">
+    {{ $style := resources.Get "css/style.css" | minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <meta name="author" content="{{site.Author.name}}">
+    <meta name="publisher" content="{{site.Author.name}}">
+    <meta name="editor" content="{{site.Author.name}}">
+    <meta name="copyright" content="{{site.Copyright}}">
+    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/opengraph.html" . }}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900">    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    {{ partial "ld-breadcrumb" . }}
+    {{ hugo.Generator }}
+</head>
+
+<body>
+
+    <header>
+        {{ site.Title }}
+
+    </header>
+
+    {{ if not .IsHome }}
+    <nav>
+        {{ partialCached "breadcrumb" . .Page }} {{ .LinkTitle }}
+    </nav>
+    {{ end }}
+
+    <main>
+        <article>
+            {{ block "main" . }}{{ end }}
+        </article>
+    </main>
+
+    {{ $current := .}}
+    {{ with .Parent }}
+    <aside>
+        <p><strong>Voir aussi:</strong></p>
+        <nav>
+            <ul>
+                {{ range .Pages }}
+                {{ if ne . $current }}<li><a href="{{ .Permalink }}">{{ .Title | markdownify | markdownify }}</a></li>{{
+                end }}
+                {{ end }}
+            </ul>
+        </nav>
+    </aside>
+    {{ end }}
+
+    <footer>
+        <p>{{site.Params.description | markdownify}}</p>
+    </footer>
+</body>
+
+</html>

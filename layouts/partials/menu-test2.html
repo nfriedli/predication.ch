@@ -1,0 +1,27 @@
+{{ define "souspages" }}
+{{ $thePage := .currentPage }}
+
+{{ range .context.Pages }}
+<ul>
+    {{ if .IsAncestor $thePage }}
+    <li>                
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle}}</a>
+        {{ template "souspages" (dict "context" . "currentPage" $thePage) }}
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+{{ end }}
+
+<nav>
+{{ $thePage := .Page}}
+<ul>
+{{ range site.Sections }}
+<li>    
+    <a href="{{ .RelPermalink }}">{{.LinkTitle}}</a>
+    {{ if .IsAncestor $thePage}}
+    {{ template "souspages" (dict "context" . "currentPage" $thePage) }}
+    {{ end }}        </li>
+{{ end }}
+</ul>    
+</nav>
