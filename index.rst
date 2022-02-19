@@ -3,7 +3,7 @@ Trouver une prédication en ligne
 ********************************
 
 Liens directs vers des sites institutionnels et personnels qui proposent régulièrement des prédications en ligne.
-L'inventaire propose en priorité des contenus protestants réformés de Suisse romande.
+L’inventaire propose en priorité des contenus protestants réformés de Suisse romande.
 
 .. contents::
     :local:
@@ -13,6 +13,10 @@ L'inventaire propose en priorité des contenus protestants réformés de Suisse 
 ===========
 celebrer.ch
 ===========
+
+Le site celebrer.ch propose chaque semaine un culte de Suisse romande ou d’une Église francophone de Suisse alémanique.
+Les cultes sont radiodiffusés par *Espace 2*.
+C’est un excellent point de départ pour trouver une prédication protestante en ligne.
 
 https://www.celebrer.ch/
 
@@ -111,7 +115,7 @@ https://gillesbourquin.ch/
 Jean-Jacques Corbaz
 ===================
 
-Jean-Jacques Corbaz est pasteur retraité de l'Église évangélique réformée du canton de Vaud.
+Jean-Jacques Corbaz est pasteur retraité de l’Église évangélique réformée du canton de Vaud.
 
 http://textesdejjcorbaz.blogspot.com/
 
@@ -132,7 +136,7 @@ https://philippegolaz.ch/
 Elio Jaillet
 ============
 
-Elio Jaillet est théologien, doctorant à Genève et actif dans l'Église évangélique réformée du canton de Vaud.
+Elio Jaillet est théologien, doctorant à Genève et actif dans l’Église évangélique réformée du canton de Vaud.
 
 https://eliojaillet.ch/
 
