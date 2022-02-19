@@ -248,7 +248,8 @@ Avec quelques nuances, une *prédication* est comparable à une *homélie*, un *
     :keywords:      prédication, sermon, homélie, Suisse romande, protestantisme
     :publisher:     Nicolas Friedli
     :robots:        index,follow
-    :property=og:image: https://cdn.pixabay.com/photo/2018/08/17/10/10/candlelight-3612508_960_720.jpg
+    :property=og:image: https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
+    :twitter:card:  summary_large_image
 
 .. header:: predication.ch
 
