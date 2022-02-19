@@ -93,8 +93,8 @@ p {
 .admonition {
     font-weight: 500;
     margin: 1rem 0;
-    padding-left: 1rem;
-    border-left: 1px solid var(--light);
+    padding: .5rem 1rem 1rem 1rem;
+    border: 2px solid var(--light);
 }
 
 .admonition-title {
