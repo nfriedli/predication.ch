@@ -250,6 +250,9 @@ Avec quelques nuances, une *prédication* est comparable à une *homélie*, un *
     :robots:        index,follow
     :property=og:image: https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
     :twitter:card:  summary_large_image
+    :twitter:image: https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
+    :twitter:title: Trouver une prédication protestante réformée en ligne
+    :twitter:description: Liens directs vers des sites institutionnels et personnels qui publient régulièrement des prédications protestantes réformées en Suisse romande.
 
 .. header:: predication.ch
 
