@@ -25,6 +25,7 @@
      :root {
         --background: #444;
         --color: #eee;
+        --light: #ccc;
     }
 }
 
@@ -38,7 +39,7 @@ html {
 
 @media screen and (min-width: 1200px) {
     html {
-        font-size: 115%;
+        font-size: 110%;
     }
 }
 
@@ -54,7 +55,8 @@ body>*+* {
 
 header,
 footer,
-.contents {
+.contents,
+.admonition {
     color: var(--light);
     font-size: .875rem;
 }
@@ -66,6 +68,7 @@ header {
 h1,
 h2,
 h3 {
+    font-weight: 900;
     letter-spacing: -.02em;
     line-height: 1.1;
     margin-top: 2em;
@@ -73,8 +76,17 @@ h3 {
 }
 
 h1 {
+    font-size: 1.96rem;
     margin-top: 0;
     margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1rem;
 }
 
 a {
@@ -96,11 +108,10 @@ p {
 }
 
 .admonition {
-    color: var(--light);
     font-weight: 500;
     margin: 1rem 0;
     padding-left: 1rem;
-    border-left: 2px solid var(--light);
+    border-left: 1px solid var(--light);
 }
 
 .admonition-title {
@@ -146,14 +157,28 @@ L’inventaire propose en priorité des contenus protestants réformés de Suiss
 </li>
 <li><p><a class="reference internal" href="#sites-personnels" id="id11">Sites personnels</a></p>
 <ul>
-<li><p><a class="reference internal" href="#gilles-bourquin" id="id12">Gilles Bourquin</a></p></li>
-<li><p><a class="reference internal" href="#jean-jacques-corbaz" id="id13">Jean-Jacques Corbaz</a></p></li>
-<li><p><a class="reference internal" href="#diane-friedli" id="id14">Diane Friedli</a></p></li>
-<li><p><a class="reference internal" href="#philippe-golaz" id="id15">Philippe Golaz</a></p></li>
-<li><p><a class="reference internal" href="#elio-jaillet" id="id16">Elio Jaillet</a></p></li>
-<li><p><a class="reference internal" href="#jean-marc-leresche" id="id17">Jean-Marc Leresche</a></p></li>
-<li><p><a class="reference internal" href="#hyonou-paik" id="id18">Hyonou Paik</a></p></li>
-<li><p><a class="reference internal" href="#marc-pernot" id="id19">Marc Pernot</a></p></li>
+<li><p><a class="reference internal" href="#olivier-bauer" id="id12">Olivier Bauer</a></p></li>
+<li><p><a class="reference internal" href="#gilles-bourquin" id="id13">Gilles Bourquin</a></p></li>
+<li><p><a class="reference internal" href="#jean-jacques-corbaz" id="id14">Jean-Jacques Corbaz</a></p></li>
+<li><p><a class="reference internal" href="#diane-friedli" id="id15">Diane Friedli</a></p></li>
+<li><p><a class="reference internal" href="#philippe-golaz" id="id16">Philippe Golaz</a></p></li>
+<li><p><a class="reference internal" href="#elio-jaillet" id="id17">Elio Jaillet</a></p></li>
+<li><p><a class="reference internal" href="#jean-marc-leresche" id="id18">Jean-Marc Leresche</a></p></li>
+<li><p><a class="reference internal" href="#hyonou-paik" id="id19">Hyonou Paik</a></p></li>
+<li><p><a class="reference internal" href="#marc-pernot" id="id20">Marc Pernot</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#foire-aux-questions-faq" id="id21">Foire aux questions (FAQ)</a></p>
+<ul>
+<li><p><a class="reference internal" href="#pourquoi-le-site-de-la-paroisse-de-x-nest-pas-liste" id="id22">Pourquoi le site de la paroisse de X n’est pas listé?</a></p></li>
+<li><p><a class="reference internal" href="#comment-sabonner-pour-recevoir-une-predication-chaque-dimanche" id="id23">Comment s’abonner pour recevoir une prédication chaque dimanche?</a></p></li>
+<li><p><a class="reference internal" href="#pourquoi-ce-site-ne-propose-pas-de-predications" id="id24">Pourquoi ce site ne propose pas de prédications?</a></p></li>
+<li><p><a class="reference internal" href="#pourquoi-proposer-un-inventaire-alors-que-google-est-efficace" id="id25">Pourquoi proposer un inventaire alors que Google est efficace?</a></p></li>
+<li><p><a class="reference internal" href="#pourquoi-lister-des-sites-personnels" id="id26">Pourquoi lister des sites personnels?</a></p></li>
+<li><p><a class="reference internal" href="#est-il-possible-de-reutiliser-des-predications" id="id27">Est-il possible de réutiliser des prédications?</a></p></li>
+<li><p><a class="reference internal" href="#que-lire-sur-la-predication" id="id28">Que lire sur la prédication?</a></p></li>
+<li><p><a class="reference internal" href="#que-signifie-homiletique" id="id29">Que signifie <em>homilétique</em>?</a></p></li>
+<li><p><a class="reference internal" href="#quels-synonymes-a-predication" id="id30">Quels synonymes à <em>prédication</em>?</a></p></li>
 </ul>
 </li>
 </ul>
@@ -247,9 +272,14 @@ Au vu de l’ampleur de la tâche, des liens directs sont bienvenus (contact en 
 <h2>Sites personnels</h2>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>L’inventaire exhaustif des sites personnels est difficile.
+<p>L’inventaire exhaustif des sites personnels est long et complexe.
 Les propositions d’ajouts sont bienvenues (contact en bas de page).</p>
 </div>
+<section id="olivier-bauer">
+<h3>Olivier Bauer</h3>
+<p>Olivier Bauer est professeur de théologie pratique à l’université de Lausanne.</p>
+<p><a class="reference external" href="https://olivierbauer.org/predications/">https://olivierbauer.org/predications/</a></p>
+</section>
 <section id="gilles-bourquin">
 <h3>Gilles Bourquin</h3>
 <p>Gilles Bourquin est pasteur dans la paroisse de Rondchâtel (Berne).</p>
@@ -289,6 +319,70 @@ Les propositions d’ajouts sont bienvenues (contact en bas de page).</p>
 <h3>Marc Pernot</h3>
 <p>Marc Pernot est pasteur dans la paroisse de Cologny-Vandœuvres-Choulex (Genève).</p>
 <p><a class="reference external" href="http://marcpernot.net/">http://marcpernot.net/</a></p>
+</section>
+</section>
+<section id="foire-aux-questions-faq">
+<h2>Foire aux questions (FAQ)</h2>
+<section id="pourquoi-le-site-de-la-paroisse-de-x-nest-pas-liste">
+<h3>Pourquoi le site de la paroisse de X n’est pas listé?</h3>
+<p>Probablement parce qu’il n’a pas été trouvé lors des recherches.
+Peut-être parce que ses prédications ne sont pas assez visibles.
+Ou encore parce qu’il ne publie que très peu de prédications.</p>
+<p>Toutes les propositions sont bienvenues.</p>
+</section>
+<section id="comment-sabonner-pour-recevoir-une-predication-chaque-dimanche">
+<h3>Comment s’abonner pour recevoir une prédication chaque dimanche?</h3>
+<p>Il n’existe de service d’abonnement.
+Toutefois, la plupart des sites offre soit un flux RSS, soit une lettre de nouvelles (<em>newsletter</em>).
+Si la demande existe, ce site pourrait se transformer en relais de toutes les prédications proposées chaque dimanche.</p>
+</section>
+<section id="pourquoi-ce-site-ne-propose-pas-de-predications">
+<h3>Pourquoi ce site ne propose pas de prédications?</h3>
+<p>Parce que son auteur n’est pas prédicateur et qu’il ne peut que se limiter à relayer ce qui se fait.</p>
+</section>
+<section id="pourquoi-proposer-un-inventaire-alors-que-google-est-efficace">
+<h3>Pourquoi proposer un inventaire alors que Google est efficace?</h3>
+<p>Un recensement systématique en utilisant un moteur de recherche n’est pas chose facile.
+En publiant une liste importante, ce site se veut une invitation à la découverte.
+Il propose en particulier de dépasser les frontières cantonales.</p>
+</section>
+<section id="pourquoi-lister-des-sites-personnels">
+<h3>Pourquoi lister des sites personnels?</h3>
+<p>Il arrive que le ton d’une personne nous touche particulièrement (ou nous déplaise).
+Les sites et blogs personnels permettent de retrouver (ou d’éviter) facilement les prédications de ces personnes.</p>
+</section>
+<section id="est-il-possible-de-reutiliser-des-predications">
+<h3>Est-il possible de réutiliser des prédications?</h3>
+<p>Si les contenus de ce site sont libres, les prédications en lien ne le sont pas forcément.
+Il faut toujours se référer aux consignes des sites sur lesquels sont publiés les contenus pour savoir ce qui est libre ou non.</p>
+</section>
+<section id="que-lire-sur-la-predication">
+<h3>Que lire sur la prédication?</h3>
+<ul class="simple">
+<li><p>Fred B. Craddock, <em>Prêcher</em></p></li>
+<li><p>Michel Deneken et Élisabeth Parmentier, <em>Pourquoi prêcher. Plaidoyers catholique et protestant pour la prédication</em></p></li>
+<li><p>Timothy Keller, <em>La prédication</em> (conseillé par <a class="reference internal" href="#philippe-golaz">Philippe Golaz</a>)</p></li>
+<li><p>Thomas G. Long, <em>Pratiques de la prédication. Positionnements, élaborations, expériences</em></p></li>
+<li><p>Bernard Reymond, <em>De vive voix. Oraliture et prédication</em></p></li>
+<li><p>Gerd Theissen, <em>Le défi homilétique. L’exégèse au service de la prédication</em></p></li>
+<li><p>la rubrique <a class="reference external" href="https://olivierbauer.org/tag/predication/">prédication</a> du blog du professeur <a class="reference internal" href="#olivier-bauer">Olivier Bauer</a></p></li>
+<li><p>les <a class="reference external" href="https://museeprotestant.org/?s=pr%C3%A9dication">entrées sur la prédication</a> du <em>Musée virtuel du protestantisme</em></p></li>
+<li><p>dans l’<em>Encyclopédie du protestantisme</em>:</p>
+<ul>
+<li><p>«prédicateur» par Laurent Gagnebin</p></li>
+<li><p>«prédication» par Claude Bridel</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="que-signifie-homiletique">
+<h3>Que signifie <em>homilétique</em>?</h3>
+<p>L’homiléthique est la <em>théorie de la prédication</em>.
+On retrouve la même racine dans le terme <em>homélie</em>, souvent utilisé en contexte catholique.</p>
+</section>
+<section id="quels-synonymes-a-predication">
+<h3>Quels synonymes à <em>prédication</em>?</h3>
+<p>Avec quelques nuances, une <em>prédication</em> est comparable à une <em>homélie</em>, un <em>message</em>, un <em>sermon</em> ou un <em>prêche</em>.</p>
 </section>
 </section>
 </main>

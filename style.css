@@ -8,6 +8,7 @@
      :root {
         --background: #444;
         --color: #eee;
+        --light: #ccc;
     }
 }
 
@@ -21,7 +22,7 @@ html {
 
 @media screen and (min-width: 1200px) {
     html {
-        font-size: 115%;
+        font-size: 110%;
     }
 }
 
@@ -37,7 +38,8 @@ body>*+* {
 
 header,
 footer,
-.contents {
+.contents,
+.admonition {
     color: var(--light);
     font-size: .875rem;
 }
@@ -49,6 +51,7 @@ header {
 h1,
 h2,
 h3 {
+    font-weight: 900;
     letter-spacing: -.02em;
     line-height: 1.1;
     margin-top: 2em;
@@ -56,8 +59,17 @@ h3 {
 }
 
 h1 {
+    font-size: 1.96rem;
     margin-top: 0;
     margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1rem;
 }
 
 a {
@@ -79,11 +91,10 @@ p {
 }
 
 .admonition {
-    color: var(--light);
     font-weight: 500;
     margin: 1rem 0;
     padding-left: 1rem;
-    border-left: 2px solid var(--light);
+    border-left: 1px solid var(--light);
 }
 
 .admonition-title {
