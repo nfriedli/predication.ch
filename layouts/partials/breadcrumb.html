@@ -1,4 +1,0 @@
-{{ with .Parent }}
-    {{ partialCached "breadcrumb.html" . .Page }}
-    <a href="{{ .RelPermalink }}">{{ if .IsHome }}Accueil{{ else }}{{ .Title | markdownify }}{{ end}}</a> »
-{{ end }}

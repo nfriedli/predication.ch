@@ -1,0 +1,104 @@
+:root {
+    --background: #eee;
+    --color: #222;
+    --light: #444;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+     :root {
+        --background: #444;
+        --color: #eee;
+    }
+}
+
+html {
+    background: var(--background);
+    color: var(--color);
+    font-family: system-ui, sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+}
+
+@media screen and (min-width: 1200px) {
+    html {
+        font-size: 115%;
+    }
+}
+
+body {
+    margin: auto;
+    max-width: 35rem;
+    padding: 1rem;
+}
+
+body>*+* {
+    margin-top: 2rem;
+}
+
+header,
+footer,
+.contents {
+    color: var(--light);
+    font-size: .875rem;
+}
+
+header {
+    font-weight: 900;
+}
+
+h1,
+h2,
+h3 {
+    letter-spacing: -.02em;
+    line-height: 1.1;
+    margin-top: 2em;
+    margin-bottom: 0;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: inherit;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    margin: 0;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
+p {
+    margin-top: .5rem;
+}
+
+.admonition {
+    color: var(--light);
+    font-weight: 500;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    border-left: 2px solid var(--light);
+}
+
+.admonition-title {
+    font-weight: 900;
+}
+
+@media print {
+    html {
+        background: #FFF;
+        color: #000;
+    }
+    body {
+        margin: 1cm;
+    }
+    .contents {
+        display: none;
+    }
+}
