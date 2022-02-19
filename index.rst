@@ -165,6 +165,14 @@ Marc Pernot est pasteur dans la paroisse de Cologny-Vandœuvres-Choulex (Genève
 
 http://marcpernot.net/
 
+Jean-Marie Thévoz
+=================
+
+Jean-Marie Thévoz est pasteur retraité de l’Église évangélique réformée du canton de Vaud.
+Il publie régulièrement des prédications issues de ses archives.
+
+http://clamans.hautetfort.com/
+
 =========================
 Foire aux questions (FAQ)
 =========================
