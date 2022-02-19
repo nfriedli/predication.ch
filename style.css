@@ -82,12 +82,21 @@ img {
 
 p {
     margin: 0;
+    margin-top: .5rem;
     hyphens: auto;
     -webkit-hyphens: auto;
 }
 
-p {
-    margin-top: .5rem;
+ul {
+    padding-left: 1.96rem;
+}
+
+li {
+    list-style-type: square;
+}
+
+li li {
+    list-style-type: disc;
 }
 
 .admonition {

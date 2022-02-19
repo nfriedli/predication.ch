@@ -218,12 +218,13 @@ Que lire sur la prédication?
 - Thomas G. Long, *Pratiques de la prédication. Positionnements, élaborations, expériences*
 - Bernard Reymond, *De vive voix. Oraliture et prédication*
 - Gerd Theissen, *Le défi homilétique. L’exégèse au service de la prédication*
-- la rubrique `prédication <https://olivierbauer.org/tag/predication/>`_ du blog du professeur `Olivier Bauer`_
-- les `entrées sur la prédication <https://museeprotestant.org/?s=pr%C3%A9dication>`_ du *Musée virtuel du protestantisme*
 - dans l’*Encyclopédie du protestantisme*:
 
   - «prédicateur» par Laurent Gagnebin
   - «prédication» par Claude Bridel
+
+- la rubrique `prédication <https://olivierbauer.org/tag/predication/>`_ du blog du professeur `Olivier Bauer`_
+- les `entrées sur la prédication <https://museeprotestant.org/?s=pr%C3%A9dication>`_ du *Musée virtuel du protestantisme*
 
 Que signifie *homilétique*?
 ===========================
@@ -239,12 +240,13 @@ Avec quelques nuances, une *prédication* est comparable à une *homélie*, un *
 Comment soutenir la démarche de ce site?
 ========================================
 
-Le soutien le plus précieux, c’est **un lien** qui mène de votre site web à cette page ♥️
+Le soutien le plus précieux, c’est **un lien sur votre site** 🙏 qui mène à predication.ch.
 
-Les **partages** sur les réseaux sociaux et dans les messageries sont bienvenus 🙏
-Les **ajouts, corrections et remarques** sont reçus avec gratitude 📝
+Les **partages** 📱 sur les réseaux sociaux et dans les messageries sont bienvenus. 
 
-Vous pouvez aussi **offrir un café** à son auteur Nicolas Friedli par Twint (+41793443382) ☕️
+Les **ajouts, corrections et remarques** 📝 sont reçus avec gratitude.
+
+Vous pouvez aussi **offrir un café** ☕  à son auteur Nicolas Friedli par Twint (+41793443382).
 
 .. rst2html5 index.rst index.html
 
