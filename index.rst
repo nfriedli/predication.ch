@@ -239,12 +239,12 @@ Avec quelques nuances, une *prédication* est comparable à une *homélie*, un *
 Comment soutenir la démarche de ce site?
 ========================================
 
-Le soutien le plus précieux, c’est **un lien** qui mène de votre site web à cette page.
+Le soutien le plus précieux, c’est **un lien** qui mène de votre site web à cette page ♥️
 
-Les **partages** sur les réseaux sociaux et dans les messageries sont bienvenus.
-Les **ajouts, corrections et remarques** sont reçus avec gratitude.
+Les **partages** sur les réseaux sociaux et dans les messageries sont bienvenus 🙏
+Les **ajouts, corrections et remarques** sont reçus avec gratitude 📝
 
-Vous pouvez aussi **offrir un café** à son auteur Nicolas Friedli par Twint (+41793443382).
+Vous pouvez aussi **offrir un café** à son auteur Nicolas Friedli par Twint (+41793443382) ☕️
 
 .. rst2html5 index.rst index.html
 
