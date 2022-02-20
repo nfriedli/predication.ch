@@ -285,3 +285,9 @@ Vous pouvez aussi **offrir un café** ☕  à son auteur Nicolas Friedli par Twi
 
     Tout ce qui se trouve sur cette page est sous licence Creative Commons Zero (CC0).
     Les propositions et remarques peuvent être `envoyées par mail <nicolas.friedli+predication@gmail.com>`_  ou `proposés sur GitHub <https://github.com/nfriedli/predication.ch>`_.
+
+    **Liens conseillés:** 
+
+    `Trouver ma paroisse <https://ma-paroisse.ch/>`_ / 
+    `Église ouvertes en Suisse romande <https://eglises-ouvertes.ch/>`_ / 
+    `Annuaire protestant <https://1517.ch/>`_
