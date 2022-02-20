@@ -80,10 +80,11 @@ Vaud
 
 - `Blonay-St-Légier <https://www.eerv.ch/region/riviera-pays-denhaut/blonay-saint-legier/activites/nos-predications>`_ 
 - `Jorat <https://www.eerv.ch/region/la-broye/jorat/activites/spiritualite/predications-2022>`_
+- `Église Martin Luther King <https://www.eerv.ch/activites-cantonales/eglise-martin-luther-king-lausanne/activites/predications/>`_
 - `Prilly-Jouxtens <https://www.eerv.ch/region/les-chamberonnes/prilly-jouxtens/pratique/meditations-et-predications>`_
-- `La Tour-de-Peilz <https://www.eerv.ch/region/riviera-pays-denhaut/la-tour-de-peilz/pratique/predications>`_
 - `Saint-François <https://www.sainf.ch/predications/>`_
 - `Saint-Jean <https://www.eerv.ch/region/lausanne-epalinges/saint-jean/pratique/predications-de-nos-pasteurs>`_
+- `La Tour-de-Peilz <https://www.eerv.ch/region/riviera-pays-denhaut/la-tour-de-peilz/pratique/predications>`_
 - `La Vallée <https://www.eerv.ch/region/joux-orbe/la-vallee/activites/cultes/predications>`_ 
 
 En Suisse alémanique
@@ -256,14 +257,18 @@ Les **ajouts, corrections et remarques** 📝 sont reçus avec gratitude.
 
 Vous pouvez aussi **offrir un café** ☕  à son auteur Nicolas Friedli par Twint (+41793443382).
 
-.. rst2html5 index.rst index.html
+..  compilation:
+    rst2html5 index.rst index.html
+
+    compression (optionnelle):
+    npx html-minifier --minify-css --collapse-whitespace --preserve-line-breaks -o index.html index.html
 
 .. title::          Trouver une prédication protestante réformée en ligne  
 
 .. meta::
     :author:        Nicolas Friedli
     :copyright:     Creative Commons Zero (CC0)
-    :date:          2022-02-19
+    :date:          2022-02-20
     :description:   Liens directs vers des sites institutionnels et personnels qui publient régulièrement des prédications protestantes réformées en Suisse romande.
     :keywords:      prédication, sermon, homélie, Suisse romande, protestantisme
     :publisher:     Nicolas Friedli
