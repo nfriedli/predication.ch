@@ -34,7 +34,7 @@ Berne
 =====
 
 - `Erguël <https://www.referguel.ch/>`_
-- `La Neuveville <https://paref2520.ch/>`_
+- `La Neuveville <https://paref2520.ch/category/cultes-a-lemporter/>`_
 
 Fribourg
 ========
@@ -58,17 +58,17 @@ Genève
 Neuchâtel
 =========
 
-- `La BARC <https://www.eren.ch/barc/>`_
-- `La Côte <https://paroissereformeevaldetravers.wordpress.com/>`_
-- `Les Hautes Joux <https://www.eren.ch/hautesjoux/>`_
-- `Le Joran <http://www.lejoran.ch/>`_
-- `Neuchâtel <https://www.eren.ch/neuchatel/>`_
-- `Val-de-Travers <https://paroissereformeevaldetravers.wordpress.com/>`_
+- `La BARC <https://www.eren.ch/barc/category/cultes/>`_
+- `La Côte <https://www.eren.ch/cote/>`_
+- `Les Hautes Joux <https://www.eren.ch/hautesjoux/category/predication/>`_
+- `Le Joran <http://www.lejoran.ch/category/predications-et-messages/>`_
+- `Neuchâtel <https://www.eren.ch/neuchatel/paroles-de-vie/predications/>`_
+- `Val-de-Travers <https://paroissereformeevaldetravers.wordpress.com/category/predications/>`_
 
 Valais
 ======
 
-- `Haut-Lac <https://hautlac.erev.ch/>`_
+- `Haut-Lac <https://hautlac.erev.ch/photos-2/>`_
 
 Vaud
 ====
@@ -115,7 +115,7 @@ Gilles Bourquin
 
 Gilles Bourquin est pasteur dans la paroisse de Rondchâtel (Berne).
 
-https://gillesbourquin.ch/
+https://gillesbourquin.ch/category/predications/
 
 Jean-Jacques Corbaz
 ===================
@@ -129,35 +129,35 @@ Diane Friedli
 
 Diane Friedli est pasteure dans la paroisse de La BARC (Neuchâtel).
 
-https://dianefriedli.ch/
+https://dianefriedli.ch/category/predication/
 
 Philippe Golaz
 ==============
 
 Philippe Golaz est pasteur dans la paroisse de Meyrin (Genève).
 
-https://philippegolaz.ch/
+https://philippegolaz.ch/category/predications/
 
 Elio Jaillet
 ============
 
 Elio Jaillet est théologien, doctorant à Genève et actif dans l’Église évangélique réformée du canton de Vaud.
 
-https://eliojaillet.ch/
+https://eliojaillet.ch/category/predication/
 
 Jean-Marc Leresche
 ==================
 
 Jean-Marc Leresche est diacre dans la paroisse de La Neuveville (Berne) et aumônier de rue à La Lanterne (Neuchâtel).
 
-https://jeanmarcleresche.ch/
+https://jeanmarcleresche.ch/category/le-billet-du-dimanche/ 
 
 Hyonou Paik
 ===========
 
 Hyonou Paik est pasteur dans la paroisse de La Côte (Neuchâtel).
 
-https://potinsdivins.wordpress.com/
+https://potinsdivins.wordpress.com/category/predications-meditations/
 
 Marc Pernot
 ===========
@@ -268,7 +268,7 @@ Vous pouvez aussi **offrir un café** ☕  à son auteur Nicolas Friedli par Twi
 .. meta::
     :author:        Nicolas Friedli
     :copyright:     Creative Commons Zero (CC0)
-    :date:          2022-02-20
+    :date:          2022-02-21
     :description:   Liens directs vers des sites institutionnels et personnels qui publient régulièrement des prédications protestantes réformées en Suisse romande.
     :keywords:      prédication, sermon, homélie, Suisse romande, protestantisme
     :publisher:     Nicolas Friedli
