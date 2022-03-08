@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>predication.ch</ShortName>
+  <Description>Rechercher predication.ch</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Url type="text/html" method="get"
+       template="https://predication.ch/../search/?q={searchTerms}"/>
+  <LongName>predication.ch</LongName>
+  <Image height="16" width="16" type="image/x-icon">https://predication.ch/../_static/apple-touch-icon.png</Image>
+  
+</OpenSearchDescription>

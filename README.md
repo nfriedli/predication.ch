@@ -7,9 +7,8 @@ Les contributions sont reçues avec gratitude.
 Responsable: Nicolas Friedli  
 Contact: nicolas.friedli+predication@gmail.com  
 Licence: Creative Commons Zero (CC0)  
-Date de naissance: 19 février 2022
 
-Pour info, le site est généré avec Docutils:
+Pour info, le site est généré avec Sphinx:
 
-    pip install docutils
-    rst2html index.rst index.html
+    pip install sphinx
+    make dirhtml
