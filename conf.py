@@ -30,4 +30,7 @@ html_use_opensearch = "https://predication.ch"
 
 html_theme_options = {
     "show_powered_by": "True",
+    "font_family": "system-ui, sans-serif",
+    #"head_font_family": "Roboto Slab, Roboto, system-ui, sans-serif",
+    #"code_font_family": "Roboto Mono, monospace"
 }

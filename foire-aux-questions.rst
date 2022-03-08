@@ -70,3 +70,31 @@ Quels synonymes à *prédication*?
 ================================
 
 Avec quelques nuances, une *prédication* est comparable à une *homélie*, un *message*, un *sermon* ou un *prêche*.
+
+Que signifient les acronymes utilisés?
+======================================
+
+.. glossary::
+    :sorted:
+    
+    RefBeJuSo
+        Églises réformées Berne-Jura-Soleure 
+
+    EERF
+        Église évangélique réformée du canton de Fribourg
+      
+    EPG
+        Église protestante de Genève
+
+    EREN
+        Église réformée évangélique du canton de Neuchâtel 
+
+    EREV
+        Église réformée évangélique du Valais 
+
+    EERV
+        Église évangélique réformée du canton de Vaud 
+
+    CERFSA
+        Conférences des Églises réformées de langue française en Suisse alémanique
+        (Argovie, Bâle, Lucerne, Saint-Gall, Schaffouse et Zurich)
