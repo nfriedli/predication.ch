@@ -4,8 +4,9 @@ author = "Nicolas Friedli"
 
 release = "0.2.0"
 
-extensions = [ "sphinx_sitemap"]
-sitemap_url_scheme = "https://predication.ch/{link}"
+# Problèmes de canonical + pages genre opensearch...
+#extensions = [ "sphinx_sitemap"]
+#sitemap_url_scheme = "https://predication.ch/{link}"
 
 templates_path = ["_templates"]
 
@@ -17,7 +18,6 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 today_fmt = "%A %-d %B %Y"
 
-# html_baseurl = "https://predication.ch"
 html_extra_path = ["_rootfiles"]
 html_favicon = "_rootfiles/apple-touch-icon.png"
 # html_logo = "_static/logo.png"
