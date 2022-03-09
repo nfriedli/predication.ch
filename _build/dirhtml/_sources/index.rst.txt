@@ -2,12 +2,6 @@
 Trouver une prédication en ligne
 ================================
 
-.. image:: _static/logo.png
-   :alt: Mégaphone
-   :width: 200px
-   :height: 200px
-   :align: right
-
 **Liens directs vers des sites institutionnels et personnels qui proposent régulièrement des prédications en ligne.
 L’inventaire propose en priorité des contenus protestants réformés de Suisse romande.**
 

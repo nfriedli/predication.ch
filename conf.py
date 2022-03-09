@@ -20,7 +20,7 @@ today_fmt = "%A %-d %B %Y"
 
 html_extra_path = ["_rootfiles"]
 html_favicon = "_rootfiles/apple-touch-icon.png"
-# html_logo = "_static/logo.png"
+html_logo = "_static/logo.jpg"
 html_permalinks = False
 html_show_sourcelink = False
 html_static_path = ["_static"]
