@@ -13,7 +13,8 @@ Pourquoi le site de la paroisse de X n’est pas listé?
 Probablement parce qu’il n’a pas été trouvé lors des recherches.
 Peut-être parce que ses prédications ne sont pas assez visibles.
 Ou encore parce qu’il ne publie que très peu de prédications.
-**Toutes les propositions sont bienvenues.**
+
+**Toutes les propositions sont bienvenues:** :ref:`contact`
 
 Comment s’abonner pour recevoir une prédication chaque dimanche?
 ================================================================

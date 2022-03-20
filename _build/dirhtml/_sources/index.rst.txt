@@ -19,8 +19,8 @@ Plan du site
 
 .. toctree::
 
-   paroisses-regions
    sites-personnels
+   paroisses-regions
    foire-aux-questions
    a-propos
 

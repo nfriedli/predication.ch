@@ -1,4 +1,4 @@
-project = html_title = "predication.ch"
+project = html_title = html_short_title = "predication.ch"
 copyright = "2022, Nicolas Friedli"
 author = "Nicolas Friedli"
 
@@ -23,13 +23,14 @@ html_favicon = "_rootfiles/apple-touch-icon.png"
 html_logo = "_static/logo.jpg"
 html_permalinks = False
 html_show_sourcelink = False
+html_show_sphinx = False
 html_static_path = ["_static"]
 html_theme = "alabaster"
 html_use_index = False
 html_use_opensearch = "https://predication.ch"
 
 html_theme_options = {
-    "show_powered_by": "True",
+    "show_powered_by": "False",
     "font_family": "PublicSans, Georgia, serif",
     #"head_font_family": "Roboto Slab, Roboto, system-ui, sans-serif",
     #"code_font_family": "Roboto Mono, monospace"

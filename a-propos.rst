@@ -15,13 +15,18 @@ Parce que les moteurs de recherche et les réseaux sociaux favorisent toujours l
 
 Voir aussi: :ref:`google`
 
+
+.. _contact:
+
 Comment contacter le responsable?
 =================================
 
 Le propriétaire du nom de domaine et responsable bénévole du site est `Nicolas Friedli <https://nicolasfriedli.ch>`_.
 Il répond aux messages et modifie le site selon la réalité de son emploi du temps.
 
-nicolas.friedli+predication@gmail.com
+📫 nicolas.friedli+predication@gmail.com 📫
+
+Merci de consulter :doc:`foire-aux-questions` avec d’envoyer une question qui s’y trouve!
 
 Comment soutenir la démarche?
 =============================

@@ -7,6 +7,9 @@
 Sites personnels
 ================
 
+Les sites personnels et blogs qui proposent régulièrement des prédications en ligne sont classé par ordre alphabétique du nom de la personne qui publie.
+
+
 .. note:: 
     
     L’inventaire exhaustif des sites personnels est long et complexe.
@@ -17,72 +20,72 @@ Sites personnels
 Olivier Bauer
 =============
 
-Olivier Bauer est professeur de théologie pratique à l’université de Lausanne.
+`Olivier Bauer`__ est professeur de théologie pratique à l’université de Lausanne.
 
-https://olivierbauer.org/predications/
+__ https://olivierbauer.org/predications/
 
 Gilles Bourquin
 ===============
 
-Gilles Bourquin est pasteur dans la paroisse de Rondchâtel (Berne).
+`Gilles Bourquin`__ est pasteur dans la paroisse de Rondchâtel (Berne).
 
-https://gillesbourquin.ch/category/predications/
+__ https://gillesbourquin.ch/category/predications/
 
 Jean-Jacques Corbaz
 ===================
 
-Jean-Jacques Corbaz est pasteur retraité de l’Église évangélique réformée du canton de Vaud.
+`Jean-Jacques Corbaz`__ est pasteur retraité de l’Église évangélique réformée du canton de Vaud.
 
-http://textesdejjcorbaz.blogspot.com/
+__ http://textesdejjcorbaz.blogspot.com/
 
 Diane Friedli
 =============
 
-Diane Friedli est pasteure dans la paroisse de La BARC (Neuchâtel).
+`Diane Friedli`__ est pasteure dans la paroisse de La BARC (Neuchâtel).
 
-https://dianefriedli.ch/category/predication/
+__ https://dianefriedli.ch/category/predication/
 
 .. _golaz:
 
 Philippe Golaz
 ==============
 
-Philippe Golaz est pasteur dans la paroisse de Meyrin (Genève).
+`Philippe Golaz`__ est pasteur dans la paroisse de Meyrin (Genève).
 
-https://philippegolaz.ch/category/predications/
+__ https://philippegolaz.ch/category/predications/
 
 Elio Jaillet
 ============
 
-Elio Jaillet est théologien, doctorant à Genève et actif dans l’Église évangélique réformée du canton de Vaud.
+`Elio Jaillet`__ est théologien, doctorant à Genève et actif dans l’Église évangélique réformée du canton de Vaud.
 
-https://eliojaillet.ch/category/predication/
+__ https://eliojaillet.ch/category/predication/
 
 Jean-Marc Leresche
 ==================
 
-Jean-Marc Leresche est diacre dans la paroisse de La Neuveville (Berne) et aumônier de rue à La Lanterne (Neuchâtel).
+`Jean-Marc Leresche`__ est diacre dans la paroisse de La Neuveville (Berne) et aumônier de rue à La Lanterne (Neuchâtel).
 
-https://jeanmarcleresche.ch/category/le-billet-du-dimanche/ 
+__ https://jeanmarcleresche.ch/category/le-billet-du-dimanche/ 
 
 Hyonou Paik
 ===========
 
-Hyonou Paik est pasteur dans la paroisse de La Côte (Neuchâtel).
+`Hyonou Paik`__ est pasteur dans la paroisse de La Côte (Neuchâtel).
 
-https://potinsdivins.wordpress.com/category/predications-meditations/
+__ https://potinsdivins.wordpress.com/category/predications-meditations/
 
 Marc Pernot
 ===========
 
-Marc Pernot est pasteur dans la paroisse de Cologny-Vandœuvres-Choulex (Genève).
+`Marc Pernot`__ est pasteur dans la paroisse de Cologny-Vandœuvres-Choulex (Genève).
 
-http://marcpernot.net/
+__ http://marcpernot.net/
 
 Jean-Marie Thévoz
 =================
 
-Jean-Marie Thévoz est pasteur retraité de l’Église évangélique réformée du canton de Vaud.
+`Jean-Marie Thévoz`__ est pasteur retraité de l’Église évangélique réformée du canton de Vaud.
 Il publie régulièrement des prédications issues de ses archives.
 
-http://clamans.hautetfort.com/
+__ http://clamans.hautetfort.com/

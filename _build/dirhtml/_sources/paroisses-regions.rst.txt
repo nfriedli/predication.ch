@@ -13,6 +13,8 @@ Paroisses & régions
     Un oubli est toujours possible.
     Les remarques sont bienvenues (voir :doc:`a-propos`).
 
+Les sites institutionnels qui publient régulièrement des prédications sont classés alphabétiquement par canton, puis par région ou paroisse.
+
 Berne (RefBeJuSo)
 =================
 
