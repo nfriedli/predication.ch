@@ -1,5 +1,5 @@
 ========
-À propos
+À propos
 ========
 
 Pourquoi ce site?
@@ -29,6 +29,6 @@ Comment soutenir la démarche?
 Quelle est la licence des contenus?
 ===================================
 
-Tous les contenus du site sont sous licence Creative Commons Zero (CCO), sauf le logo fourni par `freepik <https://www.freepik.com/vectors/music>`_.
+Tous les contenus du site sont sous licence Creative Commons Zero (CCO), sauf le logo fourni par `freepik <https://www.freepik.com/vectors/music>`_.
 Les sources sont disponibles sur `GitHub <https://github.com/nfriedli/predication.ch>`_.
 Le site est servi par `Netlify <https://www.netlify.com/>`_.

@@ -9,7 +9,7 @@ celebrer.ch
 ===========
 
 Le site celebrer.ch propose chaque semaine un culte de Suisse romande ou d’une Église francophone de Suisse alémanique.
-Les cultes sont radiodiffusés par *Espace 2*.
+Les cultes sont radiodiffusés par *Espace 2*.
 C’est un excellent point de départ pour trouver une prédication protestante en ligne.
 
 https://www.celebrer.ch/

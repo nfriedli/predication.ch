@@ -14,7 +14,7 @@ Comment s’abonner pour recevoir une prédication chaque dimanche?
 ================================================================
 
 Il n’existe de service d’abonnement.
-Toutefois, la plupart des sites offre soit un flux RSS, soit une lettre de nouvelles (*newsletter*).
+Toutefois, la plupart des sites offre soit un flux RSS, soit une lettre de nouvelles (*newsletter*).
 Si la demande existe, ce site pourrait se transformer en relais de toutes les prédications proposées chaque dimanche.
 
 Pourquoi ce site ne propose pas de prédications?
@@ -58,7 +58,7 @@ Que lire sur la prédication?
   - «prédication» par Claude Bridel
 
 - la rubrique `prédication <https://olivierbauer.org/tag/predication/>`_ du blog du professeur :ref:`bauer`
-- les `entrées sur la prédication <https://museeprotestant.org/?s=pr%C3%A9dication>`_ du *Musée virtuel du protestantisme*
+- les `entrées sur la prédication <https://museeprotestant.org/?s=pr%C3%A9dication>`_ du *Musée protestant*
 
 Que signifie *homilétique*?
 ===========================

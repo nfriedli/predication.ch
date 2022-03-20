@@ -16,7 +16,7 @@ language = "fr"
 
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
-today_fmt = "%A %-d %B %Y"
+today_fmt = "%A %-d %B %Y"
 
 html_extra_path = ["_rootfiles"]
 html_favicon = "_rootfiles/apple-touch-icon.png"
