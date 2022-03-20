@@ -46,3 +46,23 @@ Plan du site
     :twitter:image: https://predication.ch/_static/chapelle.jpg
     :twitter:title: Trouver une prédication protestante réformée en ligne
     :twitter:description: Liens directs vers des sites institutionnels et personnels qui publient régulièrement des prédications protestantes réformées en Suisse romande.
+
+
+.. raw:: html
+
+   <script type="application/ld+json">
+   {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Trouver une prédication en ligne",
+      "url": "https://predication.ch/",
+      "potentialAction": {
+         "@type": "SearchAction",
+         "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://predication.ch/search/?q={search_term_string}"
+         },
+         "query-input": "required name=search_term_string"
+      }
+   }
+   </script>
