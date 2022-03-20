@@ -1,3 +1,8 @@
+.. title:: Prédications sur des sites de paroisses
+
+.. meta::
+    :description: Des paroisses et régions de Suisse romande mettent en ligne des prédications.
+
 ===================
 Paroisses & régions
 ===================

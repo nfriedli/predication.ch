@@ -1,3 +1,8 @@
+.. title:: Foire aux questions sur le site
+
+.. meta::
+    :description: Des questions-réponses pour comprendre la démarche du site predication.ch et y participer.
+
 =========================
 Foire aux questions (FAQ)
 =========================

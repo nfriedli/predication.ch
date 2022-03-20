@@ -1,3 +1,8 @@
+.. title:: À propos du site 
+
+.. meta::
+    :description: Informations de contact, soutenir la démarche, licence des contenus contenus et indications techniques.
+
 ========
 À propos
 ========

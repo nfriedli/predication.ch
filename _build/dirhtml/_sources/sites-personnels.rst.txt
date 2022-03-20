@@ -1,3 +1,8 @@
+.. title:: Prédications sur des sites personnels
+
+.. meta::
+    :description: Des pasteur·e·s et diacres de Suisse romande proposent des prédications sur leur site.
+
 ================
 Sites personnels
 ================
