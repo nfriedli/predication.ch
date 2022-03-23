@@ -8,16 +8,28 @@ L’inventaire propose en priorité des contenus protestants réformés de Suiss
 celebrer.ch
 ===========
 
-Le site celebrer.ch propose chaque semaine un culte de Suisse romande ou d’une Église francophone de Suisse alémanique.
-Les cultes sont radiodiffusés par *Espace 2*.
+Le site `celebrer.ch <https://www.celebrer.ch/>`_ propose chaque semaine un culte de Suisse romande ou d’une Église francophone de Suisse alémanique.
+Les cultes sont diffusé par la radio publique *Espace 2*.
 C’est un excellent point de départ pour trouver une prédication protestante en ligne.
 
-https://www.celebrer.ch/
-
-Plan du site
+Sur ce site
 ============
 
+:doc:`sites-personnels`
+   Des blogs de pasteur·e·s et diacres qui publient des prédications.
+   C’est là que ce cachent les trésors du web!
+
+:doc:`paroisses-regions`
+   Une sélection de sites instiutionnels qui publient proposent régulièrement des prédications en ligne.
+
+:doc:`foire-aux-questions`
+   Les *pourquoi* et les *comment* de du site, quelques références bibliographiques et des pistes pour soutenir la démarche.
+
+:doc:`a-propos`
+   Les informations utiles: contact, soutien à la démarche, licence des contenus.
+
 .. toctree::
+   :hidden:
 
    sites-personnels
    paroisses-regions
