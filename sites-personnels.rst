@@ -42,6 +42,7 @@ Diane Friedli
 =============
 
 `Diane Friedli`__ est pasteure dans la paroisse de La BARC (Neuchâtel).
+Les prédications sont disponibles en texte et en podcast.
 
 __ https://dianefriedli.ch/category/predication/
 
@@ -51,6 +52,7 @@ Philippe Golaz
 ==============
 
 `Philippe Golaz`__ est pasteur dans la paroisse de Meyrin (Genève).
+Les prédications sont disponibles en texte et en podcast.
 
 __ https://philippegolaz.ch/category/predications/
 
@@ -65,6 +67,7 @@ Jean-Marc Leresche
 ==================
 
 `Jean-Marc Leresche`__ est diacre dans la paroisse de La Neuveville (Berne) et aumônier de rue à La Lanterne (Neuchâtel).
+Les prédications sont disponibles en texte et en podcast.
 
 __ https://jeanmarcleresche.ch/category/le-billet-du-dimanche/ 
 
@@ -72,6 +75,7 @@ Hyonou Paik
 ===========
 
 `Hyonou Paik`__ est pasteur dans la paroisse de La Côte (Neuchâtel).
+Les prédications sont disponibles en vidéo.
 
 __ https://potinsdivins.wordpress.com/category/predications-meditations/
 
@@ -79,6 +83,7 @@ Marc Pernot
 ===========
 
 `Marc Pernot`__ est pasteur dans la paroisse de Cologny-Vandœuvres-Choulex (Genève).
+Les prédications sont disponibles en texte, en audio et en vidéo.
 
 __ http://marcpernot.net/
 

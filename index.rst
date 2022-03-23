@@ -20,7 +20,7 @@ Sur ce site
    C’est là que ce cachent les trésors du web!
 
 :doc:`paroisses-regions`
-   Une sélection de sites instiutionnels qui publient proposent régulièrement des prédications en ligne.
+   Une sélection de sites institutionnels qui proposent régulièrement des prédications en ligne.
 
 :doc:`foire-aux-questions`
    Les *pourquoi* et les *comment* de du site, quelques références bibliographiques et des pistes pour soutenir la démarche.
