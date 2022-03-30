@@ -15,7 +15,6 @@ Parce que les moteurs de recherche et les réseaux sociaux favorisent toujours l
 
 Voir aussi: :ref:`google`
 
-
 .. _contact:
 
 Comment contacter le responsable?
@@ -23,10 +22,9 @@ Comment contacter le responsable?
 
 Le propriétaire du nom de domaine et responsable bénévole du site est `Nicolas Friedli <https://nicolasfriedli.ch>`_.
 Il répond aux messages et modifie le site selon la réalité de son emploi du temps.
+Merci de consulter :doc:`foire-aux-questions` avant d’envoyer une question qui s’y trouve!
 
-📫 nicolas.friedli+predication@gmail.com 📫
-
-Merci de consulter :doc:`foire-aux-questions` avec d’envoyer une question qui s’y trouve!
+**Contact:** nicolas.friedli+predication@gmail.com
 
 Comment soutenir la démarche?
 =============================
@@ -39,45 +37,51 @@ Comment soutenir la démarche?
 Quelle est la licence des contenus?
 ===================================
 
-Tous les contenus du site sont sous licence Creative Commons Zero (CCO), sauf le logo fourni par `freepik <https://www.freepik.com/vectors/music>`_.
+Les contenus produits par ce site sont sous licence Creative Commons Zero (CCO).
+
+Avec leur propre licence: 
+
+- le logo est fourni `freepik <https://www.freepik.com/vectors/music>`_
+- la police d’écriture `Public Sans <https://public-sans.digital.gov/>`_
+
 Les sources sont disponibles sur `GitHub <https://github.com/nfriedli/predication.ch>`_.
 Le site est servi par `Netlify <https://www.netlify.com/>`_.
 
 .. raw:: html
 
     <script type="application/ld+json">
-        {
-          "@context": "http://www.schema.org",
-          "@type": "person",
-          "name": "Nicolas Friedli",
-          "jobTitle": "Consultant web indépendant",
-          "gender": "male",
-          "url": "https://nicolasfriedli.ch",
-          "sameAs": [
-             "https://theologique.ch",
-             "https://frdl.ch",
-             "https://ma-paroisse.ch",
-             "https://eglises-ouvertes.ch",
-             "https://1517.ch",
-             "https://predication.ch",
-             "https://baptiser.ch",
-             "https://ministeres.ch",
-             "https://cultes.ch",
-             "https://benir.ch",
-             "https://principes-protestants.ch"
-          ],
-          "image": "https://frdl.ch/nicolas-friedli.jpg",
-          "address": {
-             "@type": "PostalAddress",
-             "streetAddress": "Rue du Château 3",
-             "addressLocality": "Colombier",
-             "addressRegion": "NE",
-             "postalCode": "2013",
-             "addressCountry": "Suisse"
-          },
-          "email": "hello@nicolasfriedli.ch",
-          "alumniOf": "Université de Neuchâtel",
-          "nationality": "Suisse",
-          "telephone": "+41328414874"
-        }
+    {
+    "@context": "http://www.schema.org",
+    "@type": "person",
+    "name": "Nicolas Friedli",
+    "jobTitle": "Consultant web indépendant",
+    "gender": "male",
+    "url": "https://nicolasfriedli.ch",
+    "sameAs": [
+    "https://1517.ch",
+    "https://baptiser.ch",
+    "https://benir.ch",
+    "https://cultes.ch",
+    "https://eglises-ouvertes.ch",
+    "https://frdl.ch",
+    "https://ma-paroisse.ch",
+    "https://ministeres.ch",
+    "https://predication.ch",
+    "https://principes-protestants.ch",
+    "https://theologique.ch"
+    ],
+    "image": "https://frdl.ch/nicolas-friedli.jpg",
+    "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rue du Château 3",
+    "addressLocality": "Colombier",
+    "addressRegion": "NE",
+    "postalCode": "2013",
+    "addressCountry": "Suisse"
+    },
+    "email": "hello@nicolasfriedli.ch",
+    "alumniOf": "Université de Neuchâtel",
+    "nationality": "Suisse",
+    "telephone": "+41328414874"
+    }
     </script>
