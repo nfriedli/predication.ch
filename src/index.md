@@ -17,9 +17,7 @@ layout: base
 <li class="card">
     <h2>{{e.data.title}}</h2>
     <p class="links">
-        {% for l in e.data.links %}
-        <a href="{{l.url}}" target="_blank">{{l.title}}</a> 
-        {% endfor %}
+        {% for l in e.data.links %}<a href="{{l.url}}" target="_blank">{{l.title}}</a>  {% endfor %}
     </p>
 </li>
 {% endfor %}
