@@ -1,2 +1,2 @@
-_build/doctrees
-_build/linkcheck
+node_modules
+package-lock.json

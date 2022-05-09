@@ -1,0 +1,5 @@
+{
+    "layout": "perso.md",
+    "permalink": "/{{ page.fileSlug }}/",
+    "tags": "perso"
+}
