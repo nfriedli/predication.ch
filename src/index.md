@@ -1,9 +1,8 @@
 ---
-title: Trouver une prédication en ligne
+title: Trouver une prédication protestante en ligne
+description: Liens directs vers des sites personnels et institutionnels qui proposent régulièrement des prédications en ligne. 
 layout: base
 ---
-
-Un site modeste et efficace pour trouver une prédication protestante réformée en Suisse francophone.
 
 <ul class="cards">
 {% for p in collections.perso %}
