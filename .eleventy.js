@@ -1,4 +1,5 @@
 const htmlmin = require("html-minifier");
+const directoryOutputPlugin = require("@11ty/eleventy-plugin-directory-output");
 
 module.exports = function (eleventyConfig) {
 
@@ -41,6 +42,10 @@ module.exports = function (eleventyConfig) {
 
         return content;
     });
+
+    // En savoir un peu plus à la compilation
+    eleventyConfig.setQuietMode(true);
+    eleventyConfig.addPlugin(directoryOutputPlugin);
 
     // Choisir les répertoires d'entrée et de sortie
     return {
