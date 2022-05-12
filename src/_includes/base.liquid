@@ -18,6 +18,10 @@
             line-height: 1.5;
         }
 
+        body:not(.home) {
+            max-width: 30rem;
+        }
+
         header,
         main,
         footer {
@@ -86,7 +90,7 @@
     </style>
 </head>
 
-<body>
+<body {% if page.url == "/" %}class="home"{% endif %}>
     <header>
         {% if page.url == "/" %}
             {{site.title}}
