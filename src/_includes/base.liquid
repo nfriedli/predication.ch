@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,16 +12,20 @@
         html {
             background-color: #112A46;
             color: #C9D9EB;
-            font-family: Inter, system-ui, sans-serif;
+            font-family: Poppins, system-ui, sans-serif;
             font-size: 100%;
+            font-weight: 500;
             line-height: 1.5;
         }
 
-        header, main, footer {
+        header,
+        main,
+        footer {
             padding: 1rem;
         }
 
-        h1, h2 {
+        h1,
+        h2 {
             font-size: 1.2rem;
             font-weight: 900;
             letter-spacing: -.03em;
@@ -44,6 +49,7 @@
             margin: 0;
             padding: 0;
         }
+
         li.card {
             background: #C9D9EB;
             color: #112A46;
@@ -61,8 +67,25 @@
             flex-wrap: wrap;
             gap: .5rem 1rem;
         }
+
+        @font-face {
+            font-display: swap;
+            font-family: "Poppins";
+            font-style: normal;
+            font-weight: 500;
+            src: url("../fonts/poppins-v20-latin-500.woff2") format("woff2");
+        }
+
+        @font-face {
+            font-display: swap;
+            font-family: "Poppins";
+            font-style: normal;
+            font-weight: 900;
+            src: url("../fonts/poppins-v20-latin-900.woff2") format("woff2");
+        }
     </style>
 </head>
+
 <body>
     <header>
         {% if page.url == "/" %}
@@ -82,4 +105,5 @@
         </p>
     </footer>
 </body>
+
 </html>

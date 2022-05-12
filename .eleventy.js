@@ -22,6 +22,10 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
     eleventyConfig.addPassthroughCopy("google52ddf0c0d3761871.html");
 
+    // Copie des fonts
+    eleventyConfig.addPassthroughCopy("fonts/");
+
+
     // Configurer la compression du HTML (et CSS)
     eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
 
