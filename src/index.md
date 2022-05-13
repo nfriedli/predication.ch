@@ -10,7 +10,6 @@ layout: base
 <li class="card">
     <h2><a href="{{p.data.link}}" target="_blank">{{p.data.title}}</a></h2>
     <p>{{p.data.description}}</p>
-    <a href="{{ p.url }}" title="Page: {{ p.data.title }}" class="permalink">#</a>
 </li>
 {% endfor %}
 
@@ -22,7 +21,6 @@ layout: base
             <a href="{{l.url}}" target="_blank">{{l.title}}</a>  
         {% endfor -%}
     </p>
-    <a href="{{ e.url }}" title="Page: {{ e.data.title }}" class="permalink">#</a>
 </li>
 {% endfor %}
 
