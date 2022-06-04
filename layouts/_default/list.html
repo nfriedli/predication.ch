@@ -6,6 +6,7 @@
     <li class="card">
         <h2><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h2>
         <p>{{ .Params.description }}</p>
+        <a class="permalink" href="{{ .RelPermalink }}" title="Permalien vers {{.Title}}">¶</a>
     </li>
     {{ end }}
     
@@ -17,6 +18,7 @@
                 <a href="{{ .url }}" target="_blank">{{ .title }}</a>  
             {{ end }}
         </p>
+        <a class="permalink" href="{{ .RelPermalink }}" title="Permalien vers {{.Title}}">¶</a>
     </li>
     {{ end }}
     
