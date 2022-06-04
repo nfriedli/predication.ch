@@ -4,16 +4,14 @@ Des liens directs vers des sites personnels et institutionnels qui proposent ré
 
 Pour proposer une suggestion, c'est soit un *pull request* dans GitHub, soit un mail à nicolas.friedli+predication@gmail.com.
 
-Le site est généré par Eleventy (11ty). Il faut l'installer avec:
+Le site est généré par Hugo (https://gohugo.io).
 
-    npm install
+Pour compiler le site:
 
-Puis compiler le site:
-
-    npx eleventy
+    hugo
 
 Pour voir ce que donne le site en local:
 
-    npx eleventy --serve
+    hugo server
 
 Tout est dans le domaine public (CC0).
