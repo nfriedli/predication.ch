@@ -8,8 +8,10 @@
     <meta name="description" content="{{ .Params.description }}">
     <meta name="author" content="Nicolas Friedli">
     <link rel="canonical" href="{{ .Permalink }}">
-    {{ $style := resources.Get "css/style.css" | minify }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ $screen := resources.Get "css/screen.css" | minify }}
+    <link rel="stylesheet" media="screen" href="{{ $screen.RelPermalink }}">
+    {{ $print := resources.Get "css/print.css" | minify }}
+    <link rel="stylesheet" media="print" href="{{ $print.RelPermalink }}">
     {{ hugo.Generator }}
 </head>
 

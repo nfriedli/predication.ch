@@ -1,0 +1,33 @@
+@page {
+    margin: 2cm;
+}
+
+html {
+    background: none;
+    color: #000;
+    font-family: Literata, Georgia, serif;
+}
+
+header, footer {
+    font-family: Roboto Mono, monospace;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+footer {
+    margin-top: 4rem;
+}
+
+a {
+    color: #000;
+}
+
+a.permalink {
+    display: none;
+}
+
+a + a {
+    margin-right: 1rem;
+}

@@ -7,14 +7,18 @@ html {
     line-height: 1.5;
 }
 
-body:not(.home) {
-    max-width: 30rem;
-}
-
 header,
 main,
 footer {
     padding: 1rem;
+}
+
+main {
+    max-width: 40em;
+}
+
+.home main {
+    max-width: 100%;
 }
 
 h1,
