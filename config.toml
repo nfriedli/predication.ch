@@ -1,0 +1,18 @@
+baseURL = "https://predication.ch"
+title = "predication.ch"
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
+
+[permalinks]
+perso = "/:filename/"
+eglises = "/:filename/"
+
+[minify]
+minifyOutput = true
+[minify.tdewolff.html]
+keepConditionalComments = false
+keepDefaultAttrVals = false
+keepDocumentTags = false
+keepEndTags = false
+keepQuotes = false
+keepWhitespace = false

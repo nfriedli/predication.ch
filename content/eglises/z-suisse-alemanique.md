@@ -1,7 +1,7 @@
 ---
 title: Suisse alémanique (CERFSA)
 description: Conférence des Églises françaises en Suisse alémanique.
-permalink: /suisse-alemanique/
+url: /suisse-alemanique/
 links:
 - title: Église française réformée de Bâle
   url: https://www.erk-bs.ch/kg/eglise/predications

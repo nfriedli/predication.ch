@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <ul class="cards">
+    {{ range where site.RegularPages "Section" "perso" }}
+    <li class="card">
+        <h2><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h2>
+        <p>{{ .Params.description }}</p>
+    </li>
+    {{ end }}
+    
+    {{ range where site.RegularPages "Section" "eglises"}}
+    <li class="card">
+        <h2>{{ .Title }}</h2>
+        <p class="links">
+            {{ range .Params.links }}
+                <a href="{{ .url }}" target="_blank">{{ .title }}</a>  
+            {{ end }}
+        </p>
+    </li>
+    {{ end }}
+    
+    </ul>
+{{ end }}

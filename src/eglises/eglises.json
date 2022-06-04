@@ -1,5 +1,0 @@
-{
-    "layout": "eglise.md",
-    "permalink": "/{{ page.fileSlug }}/",
-    "tags": "eglise"
-}
