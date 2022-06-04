@@ -1,7 +1,6 @@
 ---
 title: Genève (EPG)
 description: Église protestante de Genève
-
 links:
 - title: Carouge
   url: https://carouge.epg.ch/les-predications-lelisabeth/
@@ -18,6 +17,3 @@ links:
 - title: Petit-Saconnex
   url: https://petit-saconnex.epg.ch/liens/
 ---
-
-- Erguël
-- La Neuveville

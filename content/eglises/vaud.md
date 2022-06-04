@@ -1,7 +1,6 @@
 ---
 title: Vaud (EERV)
 description: Église évangélique réformée du canton de Vaud.
-
 links:
 - title: Blonay-St-Légier
   url: https://www.eerv.ch/region/riviera-pays-denhaut/blonay-saint-legier/activites/nos-predications

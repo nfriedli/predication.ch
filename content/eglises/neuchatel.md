@@ -1,7 +1,6 @@
 ---
 title: Neuchâtel (EREN)
 description: Église réformée évangélique du canton de Neuchâtel
-
 links:
 - title: La BARC
   url: https://www.eren.ch/barc/category/cultes/

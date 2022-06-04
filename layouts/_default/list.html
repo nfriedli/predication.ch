@@ -14,9 +14,9 @@
     <li class="card">
         <h2>{{ .Title }}</h2>
         <p class="links">
-            {{ range .Params.links }}
+            {{- range .Params.links -}}
                 <a href="{{ .url }}" target="_blank">{{ .title }}</a>  
-            {{ end }}
+            {{- end -}}
         </p>
         <a class="permalink" href="{{ .RelPermalink }}" title="Permalien vers {{.Title}}">¶</a>
     </li>

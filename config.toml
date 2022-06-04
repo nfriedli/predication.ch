@@ -1,5 +1,7 @@
 baseURL = "https://predication.ch"
 title = "predication.ch"
+languageCode = "fr-ch"
+defaultContentLanguage = "fr-ch"
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
 
@@ -13,4 +15,4 @@ minifyOutput = true
 keepDocumentTags = true
 keepEndTags = true
 keepQuotes = true
-keepWhitespace = true
+keepWhitespace = false
