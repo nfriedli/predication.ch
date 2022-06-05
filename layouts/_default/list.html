@@ -2,23 +2,33 @@
   <h1>{{ .Title }}</h1>
 
   <ul class="cards">
-    {{ range where site.RegularPages "Section" "perso" }}
+    {{ range sort (where site.RegularPages "Section" "perso") "File.Path" }}
     <li class="card">
-        <h2><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h2>
-        <p>{{ .Params.description }}</p>
-        <a class="permalink" href="{{ .RelPermalink }}" title="Permalien vers {{.Title}}">¶</a>
+        <div class="top">
+            <h2><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></h2>
+            <p>{{ .Params.description }}</p>
+        </div>
+        <div class="bottom">
+            {{ with .Params.rss }}<a href="{{ . }}" target="_blank">flux RSS</a>{{ end }}
+            {{ with .Params.podcast }}<a href="{{ . }}" target="_blank">podcast</a>{{ end }}
+            <a href="{{ .RelPermalink }}">permalien</a>
+        </div>
     </li>
     {{ end }}
     
-    {{ range where site.RegularPages "Section" "eglises"}}
+    {{ range sort (where site.RegularPages "Section" "eglises") "File.Path" }}
     <li class="card">
-        <h2>{{ .Title }}</h2>
-        <p class="links">
-            {{- range .Params.links -}}
-                <a href="{{ .url }}" target="_blank">{{ .title }}</a>  
-            {{- end -}}
-        </p>
-        <a class="permalink" href="{{ .RelPermalink }}" title="Permalien vers {{.Title}}">¶</a>
+        <div class="top">
+            <h2>{{ .Title }}</h2>
+            <p class="links">
+                {{- range .Params.links -}}
+                    <a href="{{ .url }}" target="_blank">{{ .title }}</a>  
+                {{- end -}}
+            </p>
+        </div>
+        <div class="bottom">
+            <a href="{{ .RelPermalink }}">permalien</a>
+        </div>
     </li>
     {{ end }}
     

@@ -11,4 +11,7 @@
   {{ end }}
   
   {{ with .Params.link }}<p><a href="{{ . }}" target="_blank">{{ . }}</a></p>{{ end }}
+  {{ with .Params.rss }}<p><a href="{{ . }}" target="_blank">flux RSS / Atom</a></p>{{ end }}
+  {{ with .Params.podcast }}<p><a href="{{ . }}" target="_blank">podcast</a></p>{{ end }}
+
 {{ end }}
