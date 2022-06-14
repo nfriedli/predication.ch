@@ -8,11 +8,19 @@
     <meta name="description" content="{{ .Params.description }}">
     <meta name="author" content="Nicolas Friedli">
     <link rel="canonical" href="{{ .Permalink }}">
-    {{ $screen := resources.Get "css/screen.css" | minify }}
+    {{ $screen := resources.Get "css/screen.css" | minify | fingerprint }}
     <link rel="stylesheet" media="screen" href="{{ $screen.RelPermalink }}">
-    {{ $print := resources.Get "css/print.css" | minify }}
+    {{ $print := resources.Get "css/print.css" | minify | fingerprint }}
     <link rel="stylesheet" media="print" href="{{ $print.RelPermalink }}">
     {{ hugo.Generator }}
+
+    {{ if .IsHome }}
+    {{ $ldjson := getJSON "https://raw.githubusercontent.com/nfriedli/nfriedli/main/ld.json"  }}
+    <script>
+        {{ $ldjson | jsonify }}
+    </script>
+    {{ end }}
+
 </head>
 
 <body{{if .IsHome}} class="home"{{end}}>
