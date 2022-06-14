@@ -16,7 +16,7 @@
 
     {{ if .IsHome }}
     {{ $ldjson := getJSON "https://raw.githubusercontent.com/nfriedli/nfriedli/main/ld.json"  }}
-    <script>
+    <script type="application/ld+json">
         {{ $ldjson | jsonify }}
     </script>
     {{ end }}
