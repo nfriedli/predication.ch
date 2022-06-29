@@ -8,6 +8,8 @@ links:
   url: https://www.eerv.ch/region/la-broye/jorat/activites/cultes-et-spiritualite/predications-des-cultes
 - title: Église Martin Luther King
   url: https://www.eerv.ch/activites-cantonales/eglise-martin-luther-king-lausanne/activites/predications/
+- title: Oron-Palézieux
+  url: https://www.eerv.ch/region/la-broye/oron-palezieux/activites/celebrations/predications-des-cultes
 - title: Prilly-Jouxtens
   url: https://www.eerv.ch/region/les-chamberonnes/prilly-jouxtens/pratique/meditations-et-predications
 - title: Saint-François
